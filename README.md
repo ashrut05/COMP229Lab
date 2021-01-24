@@ -1,2 +1,2 @@
-#Lab 1 Assignment
+#Lab1Assignment
 Assignment 1 Repository
